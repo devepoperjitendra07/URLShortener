@@ -1,0 +1,30 @@
+name: go_india_tracker
+description: "A standalone SDK for handling Deferred Deep Linking and app analytics."
+version: 0.0.1
+homepage: ""
+
+environment:
+  sdk: ^3.5.4
+#  sdk: '>=3.2.0 <5.0.0'
+#  flutter: '>=3.24.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  device_info_plus: ">=10.1.2 <13.0.0"
+  shared_preferences: ">=2.3.3 <3.0.0"
+  app_links: ^6.3.0
+  uuid: ^4.4.0
+  android_play_install_referrer: ^0.4.0
+
+#dependency_overrides:
+#  path: 1.9.0
+#  meta: 1.15.0
+#  collection: 1.18.0
+#  intl: 0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.studyiq.android",
+      "sha256_cert_fingerprints": [
+        "21:B5:31:DC:42:37:F6:1C:87:81:47:9B:23:ED:71:C9:CA:D4:28:4D:AC:00:0C:32:C1:3B:F9:E6:9A:61:B0:7B",
+        "A8:F1:98:34:12:2F:49:17:AE:33:BD:F8:3B:C2:BD:20:9F:2D:D8:C9:2A:1D:30:97:6A:1E:C6:51:1F:4E:B1:0B",
+        "D5:46:A7:C7:D2:64:FA:39:E9:59:9D:B8:F3:E7:EA:A6:EC:53:06:32:7F:04:03:CB:3B:70:FD:4B:0A:C9:95:D3"
+      ]
+    }
+  }
+]
